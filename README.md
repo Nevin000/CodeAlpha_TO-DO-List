@@ -23,7 +23,7 @@ A clean, simple, and interactive To-Do List web app built with HTML, CSS, and Ja
 
 🎮 Live Demo
 
-Check out the live version here: CodeAlpha TO-DO List
+Check out the live version here: https://nevin000.github.io/CodeAlpha_TO-DO-List/
 
 🔗 Try it out now!
 
